@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://willlindsey.github.io/willlindsey/sitemap.xml
+Sitemap: https://willlindsey.github.io/willlindsey//sitemap.xml
