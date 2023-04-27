@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://blog.anotherplacein.com//sitemap.xml
+Sitemap: https://blog.anotherplacein.com/sitemap.xml
